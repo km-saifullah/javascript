@@ -8,4 +8,12 @@ Variables
 
 Data Types
 ===========
-- 
+- number => 2^53 -> bigint
+- string => ""
+- boolean => true/false
+- null => standalone value (representation of empty value)
+- null is an object 
+- undefined => not assigned any value
+- symbol => unique 
+
+// object
