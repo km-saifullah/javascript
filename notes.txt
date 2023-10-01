@@ -1,0 +1,11 @@
+Variables
+==========
+- assign variables in memory
+- var/let/const use for declaring variables
+- {} this is a block scope in javascript
+- problem with scope while using var
+- prefer not to use var because of issue in block scope and functional scope
+
+Data Types
+===========
+- 
