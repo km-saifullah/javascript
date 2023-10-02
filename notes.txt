@@ -17,3 +17,25 @@ Data Types
 - symbol => unique 
 
 // object
+
+// Primitive Data Types
+- 7 Types
+1. String 
+2. Number 
+3. Boolean 
+4. null 
+5. undefined
+6. Symbol
+7. BigInt
+
+// Reference/Non-primitive Data Types
+- Allocate reference in the memory
+1. Array
+2. Object 
+3. Functions 
+- all of this type will be object (typeof)
+
+1. Is JS Dynamically typed or not?
+- Yes. We do not need to define type while defining variables
+2. Why typeof(null) is object?
+- 
